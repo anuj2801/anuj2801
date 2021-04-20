@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuj2801
+- 👋 Hi, I’m Anuj Kirodia
 - 👀 I’m interested in coding
 - 🌱 I’m currently a beginner
 
